@@ -1,0 +1,22 @@
+{
+  "name": "tuts",
+  "version": "1.0.0",
+  "description": "This is a very cool project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AliJawadSubhan/node_prac.git)"
+  },
+  "keywords": [
+    "ali",
+    "jawad"
+  ],
+  "author": "Ali jawad",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
