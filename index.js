@@ -1,9 +1,10 @@
-// // import { carNames } from './app'
+// import { carNames } from './app'
+
 // const app = require('./app')
 // var colors = require('../safe');
 
-var colors = require('colors');
-colors.enable();
+// var colors = require('colors');
+// colors.enable();
 // colors.disable();
 // var name = 'Marak';
 // console.log(colors.red('Hello %s'), name);
@@ -52,4 +53,15 @@ colors.enable();
 // http.get()
 
 
-console.log("Hii".bgBlack.green);
+// console.log("Hii".bgBlack.green);
+// import chalk from 'chalk';
+
+
+// console.log(chalk.bgCyan.yellowBright("Hello world",),)
+
+
+// const u = "12";
+// const i = 12;
+// if (u == i) {
+//     console.log("Matched");
+// }

@@ -5,6 +5,5 @@ module.exports = {
     func: function (one, two) {
         const third = one + two
         return third;
-
     }
 };
